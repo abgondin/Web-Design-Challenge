@@ -1,33 +1,25 @@
-# You can test output web-design:
+# Output web visualisation dashboard can be tested:
 https://abgondin.github.io/Web-Design-Challenge/index.html
 
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# 11 Web Design - Web Visualization Dashboard
 
 ## Background
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+HTML and CSS was used to create a visualization dashboard website to show the latitude analysis done in project 06 python-api-challenge.
 
-![Images/landingResize.png](Images/landingResize.png)
+The website consists of 7 pages total, including:
 
-### Before You Begin
+1. A landing page with an explanation of the project and links to each visualizations page. A sidebar containing preview images of each plot, and clicking an image takes the user to that visualization.
 
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
+2. Individual pages for each plot and their corresponding explanations.
 
-2. Clone the new repository to your computer.
+3. A page where we can view the data used to build the plots.
 
-3. Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: **WebVisualizations**.
+## Skills
 
-4. Add your **html** files to this folder as well as your **assets**, **Resources** and **visualizations** folders.
+data visualisation | web design | HTML | CSS
 
-5. Push the above changes to GitHub or GitLab.
 
-6. Deploy to GitHub pages. 
-
-## Latitude - Latitude Analysis Dashboard with Attitude
-
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
-
-In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### Website Requirements
 
@@ -36,8 +28,7 @@ For reference, see the ["Screenshots" section](#screenshots) below.
 The website must consist of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
-  * An explanation of the project.
-  * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+  
 * Four [visualization pages](#visualization-pages), each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
