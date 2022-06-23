@@ -5,7 +5,7 @@ https://abgondin.github.io/Web-Design-Challenge/index.html
 
 ## Background
 
-HTML and CSS was used to create a visualization dashboard in a live, publicly accessible URL (Github website). 
+HTML and CSS were used to create a visualization dashboard in a live, publicly accessible URL (Github website). 
 
 For reference, see the ["Screenshots" section](#screenshots) below.
 
@@ -30,11 +30,11 @@ The website consists of 7 pages total, including:
     * The table is a bootstrap table component.
     * The data comes from converting a CSV file to HTML.
 
-The website also has a navigation menu at the top of every page that:
-* Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
-* Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
-* Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-* Is responsive using media queries.
+* A [navigation menu](#navigation-menu) at the top of every page that:
+  * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
+  * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
+  * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
+  * Is responsive using media queries.
 
 ### Screenshots
 
