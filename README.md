@@ -1,7 +1,8 @@
-# Output web visualisation dashboard can be tested:
-https://abgondin.github.io/Web-Design-Challenge/index.html
-
 # 11 Web Design - Web Visualization Dashboard
+
+## Demo page
+
+https://abgondin.github.io/web-design-challenge/index.html
 
 ## Background
 
